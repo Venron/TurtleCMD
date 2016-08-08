@@ -5,8 +5,7 @@ geboten ist.
 
 <b>Funktionsweise:</b>
   - Der Client benötigt folgende Programmparameter: > client.jar <host> <port>
-  - Der Authentifizierungsserver benötigt keine Programmparameter. Er startet standardmäßig auf Port 55030. Damit der Auth.server
-  Benutzer identifizieren kann, benötigt er die Datei "users.txt" im selben Ordner, wie die Jar-Datei. Neue Benutzer werden
+  - Der Authentifizierungsserver benötigt keine Programmparameter. Er startet standardmäßig auf Port 55030. Damit der Authentifizierungsserver Benutzer identifizieren kann, benötigt er die Datei "users.txt" im selben Ordner, wie die Jar-Datei. Neue Benutzer werden
   zeilenweise im Format "user,password" eingetragen
   - Der Chat Server startet standardmäßig auf Port 55021.
   
